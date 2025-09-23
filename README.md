@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://YOUR_IMAGE_LINK" alt="Hey, I'm Mohamed Adnan" width="100%" />
+  <img src="C:\Users\Administrator\Desktop\books\Gemini_Generated_Image_l2xjgal2xjgal2xj.png" alt="Hey, I'm Mohamed Adnan" width="100%" />
 </p>
 
 # 👋 Welcome to My GitHub  
