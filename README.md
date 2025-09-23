@@ -1,4 +1,8 @@
-# 👋 Hi, I’m Mohamed Adnan  
+<p align="center">
+  <img src="https://YOUR_IMAGE_LINK" alt="Hey, I'm Mohamed Adnan" width="100%" />
+</p>
+
+# 👋 Welcome to My GitHub  
 
 🚀 **AI Developer | Data Scientist | Machine Learning Enthusiast**  
 
