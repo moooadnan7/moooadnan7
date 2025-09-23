@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I’m Mohamed Adnan  
 
-<!--
-**moooadnan7/moooadnan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI Developer | Data Scientist | Machine Learning Enthusiast**  
 
-Here are some ideas to get you started:
+I specialize in building intelligent systems that solve real-world problems using **Machine Learning, Deep Learning, and NLP**. Passionate about transforming data into actionable insights and deploying AI-powered applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me  
+- 🔭 Currently working on: **AI Agents, NLP, and Computer Vision projects**  
+- 🌱 Learning: **MLOps, LLM Fine-tuning, and Deployment pipelines**  
+- 🤝 Open to collaborate on: **AI research, ML/DL projects, and open-source contributions**  
+- 💬 Ask me about: **Python, Transformers, AI Deployment, Recommendation Systems, Data Analysis**  
+- 📫 Reach me at: **your.email@example.com**  
+- ⚡ Fun fact: I love turning **ideas into working AI prototypes**.  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
+`Python` `SQL` `JavaScript`  
+
+**Machine Learning & AI:**  
+`TensorFlow` `PyTorch` `Scikit-learn` `Transformers (Hugging Face)` `LangChain`  
+
+**Data & Visualization:**  
+`Pandas` `NumPy` `Matplotlib` `Power BI` `Tableau`  
+
+**Tools & Deployment:**  
+`Git/GitHub` `Docker` `FastAPI` `Flask` `Streamlit` `Colab`  
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
+
+---
+
+## 🚀 Featured Projects  
+
+- 🧠 [**Brain Tumor Detection (CNN Model)**](https://github.com/YOURUSERNAME/brain-tumor-cnn) – Deep learning model for medical image classification.  
+- 👗 [**Fashion Recommendation System**](https://github.com/YOURUSERNAME/fashion-recommender) – Transformer-based chatbot for product recommendations.  
+- 🤖 [**AI Barista Agent**](https://github.com/YOURUSERNAME/ai-barista) – Friendly AI chatbot that takes orders and manages cafe operations.  
+- 📊 [**Sales Analysis Dashboard**](https://github.com/YOURUSERNAME/powerbi-sales) – Power BI dashboard for sales insights across cities.  
+
+---
+
+## 🌍 Connect With Me  
+
+- [LinkedIn](https://linkedin.com/in/YOURUSERNAME)  
+- [Kaggle](https://kaggle.com/YOURUSERNAME)  
+- [Portfolio Website](https://yourwebsite.com)  
+
+---
+
+✨ *“The best way to predict the future is to create it – with AI.”*  
