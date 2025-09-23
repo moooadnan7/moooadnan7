@@ -11,7 +11,7 @@ I specialize in building intelligent systems that solve real-world problems usin
 - 🌱 Learning: **MLOps, LLM Fine-tuning, and Deployment pipelines**  
 - 🤝 Open to collaborate on: **AI research, ML/DL projects, and open-source contributions**  
 - 💬 Ask me about: **Python, Transformers, AI Deployment, Recommendation Systems, Data Analysis**  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **muhammedadnan200013@gmail.com**  
 - ⚡ Fun fact: I love turning **ideas into working AI prototypes**.  
 
 ---
