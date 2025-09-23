@@ -66,18 +66,18 @@ I’ve built and deployed real-world AI and data-driven projects—from face det
 
 ## 🚀 Featured Projects  
 
-- 🧠 [**Brain Tumor Detection (CNN Model)**]([https://github.com/moooadnan7/Brain-Tumor-Detection-CNN]) – Deep learning model for medical image classification.  
-- 👗 [**Fashion Recommendation System**]([https://github.com/moooadnan7/collaborative-Recommendation_system-SVD-]) – Transformer-based chatbot for product recommendations.  
-- 🤖 [**AI Barista Agent**]([https://github.com/moooadnan7/Ai-Chatbot-Cafe-Assistant]) – Friendly AI chatbot that takes orders and manages cafe operations.  
-- 📊 [**Sales Analysis Dashboard**]([https://github.com/moooadnan7/SuperMarket-Report]) – Power BI dashboard for sales insights across cities.  
+- 🧠 [**Brain Tumor Detection (CNN Model)**](https://github.com/moooadnan7/Brain-Tumor-Detection-CNN) – Deep learning model for medical image classification.  
+- 👗 [**Fashion Recommendation System**](https://github.com/moooadnan7/collaborative-Recommendation_system-SVD-) – Transformer-based chatbot for product recommendations.  
+- 🤖 [**AI Barista Agent**](https://github.com/moooadnan7/Ai-Chatbot-Cafe-Assistant) – Friendly AI chatbot that takes orders and manages cafe operations.  
+- 📊 [**Sales Analysis Dashboard**](https://github.com/moooadnan7/SuperMarket-Report) – Power BI dashboard for sales insights across cities.  
 
 ---
 
 ## 🌍 Connect With Me  
 
-- [LinkedIn]([https://linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/mohamed-khaled-41b8ab208/))  
-- [Kaggle]([https://kaggle.com/YOURUSERNAME](https://www.kaggle.com/mhamedadnan))  
-- [Portfolio Website]([https://yourwebsite.com](https://linktr.ee/muhammedadnan200013))  
+- [LinkedIn](https://www.linkedin.com/in/mohamed-khaled-41b8ab208/)  
+- [Kaggle](https://www.kaggle.com/mhamedadnan)  
+- [Portfolio Website](https://linktr.ee/muhammedadnan200013)  
 
 ---
 
