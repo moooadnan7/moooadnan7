@@ -31,21 +31,9 @@ I specialize in building intelligent systems that solve real-world problems usin
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
   <code><img height="40" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
   </div>
 </p>
  
-**Machine Learning & AI:**  
-`TensorFlow` `PyTorch` `Scikit-learn` `Transformers (Hugging Face)` `LangChain`  
-
-**Data & Visualization:**  
-`Pandas` `NumPy` `Matplotlib` `Power BI` `Tableau`  
-
-**Tools & Deployment:**  
-`Git/GitHub` `Docker` `FastAPI` `Flask` `Streamlit` `Colab`  
-
----
-
 ## 📈 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
