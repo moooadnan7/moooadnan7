@@ -25,7 +25,7 @@ I specialize in building intelligent systems that solve real-world problems usin
   <!-- Core Programming -->
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/c++/c++.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/C++/C++.png"></code>
   
   <!-- Tools -->
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
@@ -39,8 +39,7 @@ I specialize in building intelligent systems that solve real-world problems usin
   <!-- Data / Cloud / ML -->
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
   <code><img height="40" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></code> 
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
@@ -52,7 +51,6 @@ I specialize in building intelligent systems that solve real-world problems usin
   <!-- Deployment Frameworks -->
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code>
-  <code><img height="40" src="https://dashboard.render.com/favicon.ico"></code>
   
   </div>
 </p>
