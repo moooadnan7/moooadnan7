@@ -27,7 +27,11 @@ I specialize in building intelligent systems that solve real-world problems usin
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>  
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
+  <code><img height="40" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
   </div>
 </p>
  
