@@ -2,7 +2,8 @@
 
 🚀 **AI Developer | Data Scientist | Machine Learning Enthusiast**  
 
-I specialize in building intelligent systems that solve real-world problems using **Machine Learning, Deep Learning, and NLP**. Passionate about transforming data into actionable insights and deploying AI-powered applications.  
+I’m a passionate Junior AI/ML Engineer with hands-on experience in data science, machine learning, and AI development using Python and SQL, supported by strong skills in data visualization tools like Power BI and Tableau.
+I’ve built and deployed real-world AI and data-driven projects—from face detection and disease prediction to advanced RAG (Retrieval-Augmented Generation) systems and intelligent AI agents. My work focuses on turning complex data into practical, high-impact solutions by combining statistical analysis, predictive modeling, and modern AI techniques. 
 
 ---
 
