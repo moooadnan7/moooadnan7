@@ -16,27 +16,50 @@ I specialize in building intelligent systems that solve real-world problems usin
 
 ---
 
-## 🛠️ Tech Stack  
-
-**Languages and Tools**
+## 🛠️ Languages and Tools  
 
 <p align="center">
+
   <div align="center">
+  
+  <!-- Core Programming -->
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/c++/c++.png"></code>
+  
+  <!-- Tools -->
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"></code>
+  
+  <!-- Data / Cloud / ML -->
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
   <code><img height="40" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/en/imgs/huggingface_logo.svg"></code>
+  <code><img height="40" src="https://www.kaggle.com/static/images/site-logo.svg"></code>
+  
+  <!-- Deployment Frameworks -->
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code>
+  <code><img height="40" src="https://dashboard.render.com/favicon.ico"></code>
+  
   </div>
 </p>
- 
+
+
+---
+
 ## 📈 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
